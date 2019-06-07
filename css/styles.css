@@ -44,15 +44,20 @@ background-image:url(../img/coolphoto2.JPEG);
   background-repeat: no-repeat;
   background-size: auto;
   text-align: center;
+  text-shadow: 1px 1px;
 
 }
 h1:hover{
   text-align: center;
   color:red;
+  text-shadow: 2px 2px;
+
+
 }
 
 
 h4:hover{
   text-align: center;
   color: purple;
+  text-shadow: 1px 1px;
 }

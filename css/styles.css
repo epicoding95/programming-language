@@ -1,18 +1,44 @@
-p#style1{
+p#littlemoney1{
   display: none;
 }
-p#money1{
-  display: none;
-
-}
-p#life1{
+p#bitmoremoney1{
   display: none;
 
 }
-p#beer1{
+p#decentmoney1{
   display: none;
 
 }
-p#darts1{
+p#lotsofmoney1{
+  display: none;
+
+}
+p#richaf1{
 display: none;
+}
+
+#littlemoney2{
+  color:orange;
+}
+#bitmoremoney2{
+  color:purple;
+
+}
+#decentmoney2{
+  color:green;
+
+}
+#lotsofmoney2{
+  color:blue;
+
+}
+#richaf2{
+color:red
+
+}
+
+body{
+
+  background-image:url(../img/stars.JPEG);
+  background-repeat: no-repeat;
 }

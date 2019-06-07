@@ -19,22 +19,23 @@ display: none;
 
 #littlemoney2{
   color:orange;
+  font-family:fantasy;
 }
 #bitmoremoney2{
   color:purple;
-
+font-family:fantasy;
 }
 #decentmoney2{
   color:green;
-
+font-family:fantasy;
 }
 #lotsofmoney2{
   color:blue;
-
+font-family:fantasy;
 }
 #richaf2{
-color:red
-
+color:red;
+font-family:fantasy;
 }
 
 
@@ -51,6 +52,8 @@ h1:hover{
   text-align: center;
   color:red;
   text-shadow: 2px 2px;
+  font-family: monospace;
+
 
 
 }
@@ -60,4 +63,5 @@ h4:hover{
   text-align: center;
   color: purple;
   text-shadow: 1px 1px;
+  font-family: monospace;
 }

@@ -2,6 +2,9 @@ $(document).ready(function() {
   $("#ready").submit(function(event) {
     event.preventDefault();
 
+    $("#littlemoney1").click(function(){
+      $("littlemoney1").slideDown();
+    });
 debugger;
     var number1 = ($("input#littlemoney2").val());
     var number2 = ($("input#bitmoremoney2").val());

@@ -39,6 +39,9 @@ color:red
 
 body{
 
-  background-image:url(../img/stars.JPEG);
+
+  background-image:url(../img/coolphoto2.JPEG);
   background-repeat: no-repeat;
+  background-size: auto;
+
 }

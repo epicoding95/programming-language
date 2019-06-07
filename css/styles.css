@@ -1,15 +1,18 @@
-p.#style1{
+p#style1{
   display: none;
 }
-#money1{
+p#money1{
   display: none;
-}
-#life1{
-  display: none;
-}
-#beer1{
-  display: none;
-}
-#darts1{
 
+}
+p#life1{
+  display: none;
+
+}
+p#beer1{
+  display: none;
+
+}
+p#darts1{
+display: none;
 }

@@ -13,6 +13,8 @@ debugger;
     var number5 = ($("input#richaf2").val());
 
 
+    $("#yourname1").append($("input#yourname2").val());
+
     if(number1 === "yes"){
       $("#littlemoney1").show();
       $("#bitmoremoney1").hide();
